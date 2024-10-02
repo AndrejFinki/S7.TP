@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5ebafc62d5c3ba479256ed8814b7cae, type: 3}
+  m_Name: Level5
+  m_EditorClassIdentifier: 
+  NumberCardsInDeck: 1
+  deck:
+  - card: {fileID: 11445204, guid: 121381887daaf4d17bb08e8267bb081e, type: 2}
+    count: 4
+  - card: {fileID: 11445204, guid: 10f70bca77f2647a7bc844cc53b55189, type: 2}
+    count: 4
+  - card: {fileID: 11445204, guid: aea6dd0d6b2224f7bb537e9b49366e36, type: 2}
+    count: 4
+  - card: {fileID: 11445204, guid: dce6021f7ea4d4ccea958a3a9429838e, type: 2}
+    count: 4
+  - card: {fileID: 11445204, guid: ac3dbd7ab000c4e4296187e777d04cf1, type: 2}
+    count: 4
+  - card: {fileID: 11445204, guid: eb53e7f1e79074334acccf72dba874be, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 79686fea07a30426d9cb2ca2ee7232d7, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 9be08910f69e147ab87eafff545290aa, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: c6b040056584542bea9d8d7c0953a94a, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 1f41bb50b1d6140d18b7fd243d0d3a83, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: a4d28fec6729347aca52ffb5da4f4de3, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: a152dd9986e054fd1b96daf79b2c9fac, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 9afb561c0ab5a49abaf3d6fccc4eb279, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 00a095e7984d04559b986bc93b69d551, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 4d4953f6d833f45d6a9ba66d24884702, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 358e4aec1c92e4703a43cc40ba5923e3, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: cec14936d56f14903874dcf87ba8760d, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 12da94a79fbe2462da5cd3105d67dff4, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: df1c770ccba08401688cd5fa8c580503, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: ad792f930bd934aee86ef04f08e673dd, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 8d2d69d5e3ebe4b76832d675f761cb99, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: f50a82d2093a14b9dadfe6e72ceb7104, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 3c685519d03d147199a36ab0235c8b98, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: b15f5e6a992324b37bb52068e1c4003c, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: c7dafbb7150504864a10593ac22fdf2a, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: a6fae144b47e84380ab3bf129c37360b, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: b7f2f606c6aff4b46a7e37103c4a2cad, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: d6108f1a8581a4bcda3d1ecccaff767e, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 50d172de9cddc451d98f47f457c38613, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 84a6750497d5a4c6abbbc62de51a1931, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: b2fe3c7d1ae3c49bf911fdc98a7a7f3f, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: fe931feed861c47d78fc611852acc3ef, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 221025019c21e48629e8a979664bb46e, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 41e213a37ed294622a40833860bae332, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 115fc87689bb6425fa00201c9ddcea06, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 7b2ae78f888f84d25b823cd25dae9fd8, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 1620ba6e3cde743d682b7b1a0488a417, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 20ea8a8e3f9d445068d7b18c84f61d36, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 9fac010fa34ca406891ed6d6a6f396a4, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 357dbbd481df1459fbc55e7daa30fcba, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 44e06a707c5c749be8fa002900cf8dce, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: f3214b87ff3fe46a8b7078c6274b7d0f, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 1cf2145388166437b80945636703daca, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: b5981f063526848b8a245cf9cb53c91d, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: c5757a88ea97e4db0a696d3a0fac8bf0, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 94ad5e7d4cd8645c5b8a98f33e2d1ddc, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 55392d91ee9b2474ea54485afa4794f1, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: a03dc4e6530d94fdfa179f7b9c349f5c, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 3f077f92710f94f4ca79367dc2b03122, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: f7a6cdb10bf2c49e6abb9db9bba79a3b, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 362490f5faa504133b311d648e655c24, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: e49133c2a2d2b4c02912ea1a3835fceb, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 23269087b42b54fa39bdbf7487732e91, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 52a15de8b6a9044cd8c5bfad95f13879, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 76202565b325f4867837e5d93859474f, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: b904e68e451874e1eb1b90367c8cd9a3, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: acdd534a8ddfb4881929026eff39e0eb, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 90fe5bdfc8c1b4473a7c5e1dabb748b5, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 959c1595fc64e4ead9d0f268f20a311b, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 6c2099e53455a47799b3e6aa826dd385, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: f22b76d3d2be7415fa75390a5fd12fdd, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: c2a5131fa09604070bb4a2a2ddfd4e4d, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: adcbdb9afd640408587d6fa252ed1334, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: b582395454e314f6896172c1c6e53fb0, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 8be3ac69febd44374943f49437f31a46, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 38cf3448b1cd94ca1846bbadd3570e76, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 42e4ba2acd2b6471c92dabfc69a7c64e, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 238f53b943311432788e7825aa6238c5, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: dd577f275e5b8405b926c4fde91e3a7a, type: 2}
+    count: 1
+  - card: {fileID: 11429096, guid: d6e9af317a6594585b098e537fe9542c, type: 2}
+    count: 3
+  - card: {fileID: 11429096, guid: 0d2fe957e411048d3a7a4d5240a333f6, type: 2}
+    count: 3
+  - card: {fileID: 11429096, guid: c76e86f0c5a2c45f0bb89ada49b0dc88, type: 2}
+    count: 3
+  - card: {fileID: 11467892, guid: 80d68367128e94cb798abc13b6dc1dbb, type: 2}
+    count: 3
+  - card: {fileID: 11467892, guid: ac7e9aedd407846a181c7c0d3a73c5bb, type: 2}
+    count: 3
+  - card: {fileID: 11467892, guid: c4629807dad2f4d5b9fc7366acc5caf8, type: 2}
+    count: 3
+  - card: {fileID: 11475824, guid: a2c22368131cf4bfab153a00a8da131c, type: 2}
+    count: 3
+  - card: {fileID: 11475824, guid: cb30cdaebb57a4d77bc7a0783241a76a, type: 2}
+    count: 3
+  - card: {fileID: 11475824, guid: da14174880f524cfbb1aae5f03aa9799, type: 2}
+    count: 3
+  - card: {fileID: 11407306, guid: 2a975dd649e3449c28c65f5d4fafb102, type: 2}
+    count: 3
+  - card: {fileID: 11407306, guid: c2003bd7d59d4482bbde7a9c11d21bf9, type: 2}
+    count: 3
+  - card: {fileID: 11407306, guid: 7be1f5c5a56804d0a902b54e5fc05928, type: 2}
+    count: 3
+  - card: {fileID: 11419664, guid: 0fd1e61e8fe4a45e892580eab2c409e1, type: 2}
+    count: 50

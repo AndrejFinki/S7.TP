@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5ebafc62d5c3ba479256ed8814b7cae, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  NumberCardsInDeck: 0
+  deck:
+  - card: {fileID: 11445204, guid: 121381887daaf4d17bb08e8267bb081e, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 10f70bca77f2647a7bc844cc53b55189, type: 2}
+    count: 2
+  - card: {fileID: 11445204, guid: aea6dd0d6b2224f7bb537e9b49366e36, type: 2}
+    count: 2
+  - card: {fileID: 11445204, guid: dce6021f7ea4d4ccea958a3a9429838e, type: 2}
+    count: 2
+  - card: {fileID: 11445204, guid: ac3dbd7ab000c4e4296187e777d04cf1, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: f50a82d2093a14b9dadfe6e72ceb7104, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 20ea8a8e3f9d445068d7b18c84f61d36, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 52a15de8b6a9044cd8c5bfad95f13879, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: eb53e7f1e79074334acccf72dba874be, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: f3214b87ff3fe46a8b7078c6274b7d0f, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 90fe5bdfc8c1b4473a7c5e1dabb748b5, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 1f41bb50b1d6140d18b7fd243d0d3a83, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: a6fae144b47e84380ab3bf129c37360b, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 94ad5e7d4cd8645c5b8a98f33e2d1ddc, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: c2a5131fa09604070bb4a2a2ddfd4e4d, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 00a095e7984d04559b986bc93b69d551, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 84a6750497d5a4c6abbbc62de51a1931, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: f7a6cdb10bf2c49e6abb9db9bba79a3b, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 38cf3448b1cd94ca1846bbadd3570e76, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 12da94a79fbe2462da5cd3105d67dff4, type: 2}
+    count: 1
+  - card: {fileID: 11445204, guid: 41e213a37ed294622a40833860bae332, type: 2}
+    count: 1

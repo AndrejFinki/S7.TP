@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a86e6f88f24f34de191ed13ff57e588f
+timeCreated: 1447106443
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 20
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

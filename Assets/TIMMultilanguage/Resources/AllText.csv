@@ -1,0 +1,115 @@
+ID,English,Macedonian,Albanian
+title,DIGITMILE,DIGITMILE,DIGITMILE
+main_menu,Main menu,Главно мени,Menuja Kryesore
+start,Start,Започни,Fillo
+language,Language,Јазик,Gjuha
+credits,Credits,Заслуги,Kredite
+quit,Quit,Излези,Largohu
+select_difficulty,Select difficulty level,Одбери ниво на тежина,Zgjidhni nivelin e vështirësisë
+level_1,Level 1,Ниво 1,Niveli 1
+level_2,Level 2,Ниво 2,Niveli 2
+level_3,Level 3,Ниво 3,Niveli 3
+level_4,Level 4,Ниво 4,Niveli 4
+level_5,Level 5,Ниво 5,Niveli 5
+level_6,Level 6,Ниво 6,Niveli 6
+back,Back,Назад,Prapa
+card_go_1,Move forward 1 tile.,Оди напред 1 поле.,Leviz përpara 1 fushe
+card_go_x,Move forward {3} tiles.,Оди напред {3} полиња.,Leviz përpara {3} fusha
+card_if_x,"Move forward 1 tile.
+<b>If</b>
+a player is on the tile numbered {0}
+<b>then</b>
+move forward {3} tiles.","Оди напред 1 поле.
+<b>Ако</b>
+има играч врз поле со број {0}
+<b>тогаш</b>
+оди напред {3} полиња.","Leviz përpara 1 fushe.
+ <b>Nëse</b>
+ ka lojtare në fushën me numër {0}
+ <b>atëher</b>
+ lëviz përpara {3} fusha."
+card_if_x_else_y,"<b>If</b>
+a player is on the tile numbered {0}
+<b>then</b>
+move forward {3} tiles,
+<b>else</b>
+move forward {4} tiles.","<b>Ако</b>
+има играч врз поле со број {0}
+<b>тогаш</b>
+оди напред {3} полиња,
+<b>инаку</b>
+оди напред {4} полиња.","<b>Nese</b>
+ ka lojtare ne fushen me numer {0}
+ <b>ateher</b>
+ leviz përpara {3} fusha,
+ <b>përndryshe</b>
+ leviz përpara {4} fusha."
+card_for_1,<b>For</b> every player which is on the tile numbered {0} move forward 1 tile.,<b>За</b> секој играч врз поле со број {0} оди напред по 1 поле.,<b>Për</b> çdo lojtarë që është në fushë më numër {0} leviz përpara 1 fushe.
+card_for_x,<b>For</b> every player which is on the tile numbered {0} move forward {3} tiles.,<b>За</b> секој играч врз поле со број {0} оди напред по {3} полиња.,<b>Për</b> çdo lojtarë që është në fushë më numër {0} leviz përpara {3} fusha.
+card_go_bag,Move forward as many tiles as the value in your star.,"Оди напред толку полиња, колку што е вредноста во твојата ѕвезда.",Leviz përpara aq fusha sa është vlera e yllit tënd.
+card_if_less_bag_x,"Move forward 1 tile.
+<b>If</b>
+the value in your star is <b>less than {2} </b> 
+<b>then</b>
+move forward {3} tiles.","Оди напред 1 поле.
+<b>Ако</b>
+вредноста во твојата ѕвезда е <b>помала од {2} </b>
+<b>тогаш</b>
+оди напред {3} полиња.","Leviz përpara 1 fushe.
+ <b>Nëse</b>
+ vlera e yllit tënd është <b>më e vogël se {2} </b> 
+ <b>atëher</b>
+ leviz përpara {3} fusha."
+card_if_greater_bag_x,"Move forward 1 tile.
+<b>If</b>
+the value in your star is <b>greater than {2} </b> 
+<b>then</b>
+move forward {3} tiles.","Оди напред 1 поле.
+<b>Ако</b>
+вредноста во твојата ѕвезда е <b>поголема од {2}</b>
+<b>тогаш</b>
+оди напред {3} полиња.","Leviz përpara 1 fushe.
+ <b>Nëse</b>
+ vlera e yllit tënd është <b>më e madhe se {2} </b> 
+ <b>atëher</b>
+ lëviz përpara {3} fusha."
+card_if_equal_bag_x,"Move forward 1 tile.
+<b>If</b>
+the value in your star is <b>equal to {2}</b>
+<b>then</b>
+move forward {3} tiles.","Оди напред 1 поле.
+<b>Ако</b>
+вредноста во твојата ѕвезда е <b>еднаква на {2}</b>
+<b>тогаш</b>
+оди напред {3} полиња.","Leviz përpara 1 fushe.
+ <b>Nëse</b>
+ vlera e yllit tënd është <b>e barabartë me {2}</b>
+ <b>atëher</b>
+ lëviz përpara {3} fusha."
+card_back_1,Move every player 1 tile backward.,Врати ги сите играчи назад 1 поле.,Kthej të gjithë lojtarët 1 fushë prapa.
+card_back_x,Move every player {3} tiles backward.,Врати ги сите играчи назад {3} полиња.,Kthej të gjithë lojtarët {3} fusha prapa.
+select_star,Select value for the star!,Одбери вредност за ѕвездата!,Zgjidhni vlerën për yllin!
+follow,Follow,Следи,Ndjek
+yes,Yes,Да,Po
+no,No,Не,Jo
+quit_confirmation,Are you sure you want to quit?,Дали сигурно сакате да излезете?,Jeni te sigurte qe doni te largoheni?
+choose_tile,Select a tile,Одбери поле,Zgjidhni fushën
+choose_card,Select a card,Одбери карта,Zgjidhni kartën
+wait_other_players,Waiting for the other players...,Почекај ги другите играчи…,Duke pritur për lojtarët tjerë...
+your_turn,It's your turn,Ти си на ред!,Është rradha jote
+place_finished,{0} place,{0} место,{0} vend
+correct_plays,Percent of correctly played cards: {0} * {1} = {2},Процент на точно изиграни карти: {0} * {1} = {2},Përqindja e kartave të vendosura në mënyrë korrekte: {0} * {1} = {2}
+wrong_plays,Incorrectly played cards: {0} * {1} = {2},Погрешно изиграни карти: {0} * {1} = {2},Kartat e vendosura gabimisht: {0} * {1} = {2}
+points,Total points earned: {0},Вкупно освоени поени: {0},Totali i pikëve të fituara: {0}
+run_tiles,Tiles passed: {0} * {1} = {2},Изминати полиња: {0} * {1} = {2},Fusha të kaluara: {0} * {1} = {2}
+game_finished,Game finished,Играта заврши,Loja përfundoi
+correct,Correct,Точно,Saktë
+wrong,Wrong,Грешно,Gabim
+need_teacher,To play this level you need to be granted access from your teacher,За да го играш ова ниво ти треба одобрение од наставникот,Për të luajtur këtë nivel ju duhët leje nga mësuesi juaj
+teacher_email,Teachers email address:,Email адреса на наставникот:,email-i i mësuesit:
+confirm,Confirm,Потврди,Konfirmo
+cancel,Cancel,Откажи,Anulo
+teacher_denied,The teacher does not have class at the moment,Наставникот нема час во моментов,Мësuesi nuk ka orë ne moment
+get_full,Play the complete game at home. Get it on AppStore (iOS) or PlayStore (Android).,Играј ја целата игра дома. Преземи ја од AppStore (iOS) или PlayStore (Android).,Luaje gjithë lojën në shtëpi. Merni atë në (iOS) ose PlayStore (Android).
+processing,Processing...,Обработка....,Procesim...
+teacher_error,There was problem with the connection or the teacher have not started a class. Please try again.,Има проблем со врската или наставникот не започнал час. Пробајте повторно.,Ka problem me lidhjen ose mësuesi nuk ka filluar me orën e mësimit.Ju lutem provoni përsëri.

@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 8c82df2b61c7b4afa833375a6f941103
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: wilber_from_gimp_0_0
+  - first:
+      213: 21300002
+    second: wilber_from_gimp_0_1
+  - first:
+      213: 21300004
+    second: wilber_from_gimp_0_2
+  - first:
+      213: 21300006
+    second: wilber_from_gimp_0_3
+  - first:
+      213: 21300008
+    second: wilber_from_gimp_0_4
+  - first:
+      213: 21300010
+    second: wilber_from_gimp_0_5
+  - first:
+      213: 21300012
+    second: wilber_from_gimp_0_6
+  - first:
+      213: 21300014
+    second: wilber_from_gimp_0_7
+  - first:
+      213: 21300016
+    second: wilber_from_gimp_0_8
+  - first:
+      213: 21300018
+    second: wilber_from_gimp_0_9
+  - first:
+      213: 21300020
+    second: wilber_from_gimp_0_10
+  - first:
+      213: 21300022
+    second: wilber_from_gimp_0_11
+  - first:
+      213: 21300024
+    second: wilber_from_gimp_0_12
+  - first:
+      213: 21300026
+    second: wilber_from_gimp_0_13
+  - first:
+      213: 21300028
+    second: wilber_from_gimp_0_14
+  - first:
+      213: 21300030
+    second: wilber_from_gimp_0_15
+  - first:
+      213: 21300032
+    second: wilber_from_gimp_0_16
+  - first:
+      213: 21300034
+    second: wilber_from_gimp_0_17
+  - first:
+      213: 21300036
+    second: wilber_from_gimp_0_18
+  - first:
+      213: 21300038
+    second: wilber_from_gimp_0_19
+  - first:
+      213: 21300040
+    second: wilber_from_gimp_0_20
+  - first:
+      213: 21300042
+    second: wilber_from_gimp_0_21
+  - first:
+      213: 21300044
+    second: wilber_from_gimp_0_22
+  - first:
+      213: 21300046
+    second: wilber_from_gimp_0_23
+  - first:
+      213: 21300048
+    second: wilber_from_gimp_0_24
+  - first:
+      213: 21300050
+    second: wilber_from_gimp_0_25
+  - first:
+      213: 21300052
+    second: wilber_from_gimp_0_26
+  - first:
+      213: 21300054
+    second: Wilber_0
+  - first:
+      213: 21300056
+    second: Wilber_1
+  - first:
+      213: 21300058
+    second: Wilber_2
+  - first:
+      213: 21300060
+    second: Wilber_3
+  - first:
+      213: 21300062
+    second: Wilber_4
+  - first:
+      213: 21300064
+    second: Wilber_5
+  - first:
+      213: 21300066
+    second: Wilber_6
+  - first:
+      213: 21300068
+    second: Wilber_7
+  - first:
+      213: 21300070
+    second: Wilber_8
+  - first:
+      213: 21300072
+    second: Wilber_9
+  - first:
+      213: 21300074
+    second: Wilber_10
+  - first:
+      213: 21300076
+    second: Wilber_11
+  - first:
+      213: 21300078
+    second: Wilber_12
+  - first:
+      213: 21300080
+    second: Wilber_13
+  - first:
+      213: 21300082
+    second: Wilber_14
+  - first:
+      213: 21300084
+    second: Wilber_15
+  - first:
+      213: 21300086
+    second: Wilber_16
+  - first:
+      213: 21300088
+    second: Wilber_17
+  - first:
+      213: 21300090
+    second: Wilber_18
+  - first:
+      213: 21300092
+    second: Wilber_19
+  - first:
+      213: 21300094
+    second: Wilber_20
+  - first:
+      213: 21300096
+    second: Wilber_21
+  - first:
+      213: 21300098
+    second: Wilber_22
+  - first:
+      213: 21300100
+    second: Wilber_23
+  - first:
+      213: 21300102
+    second: Wilber_24
+  - first:
+      213: 21300104
+    second: Wilber_25
+  - first:
+      213: 21300106
+    second: Wilber_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wilber_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wilber_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 480
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wilber_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wilber_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wilber_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 240
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wilber_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wilber_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wilber_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wilber_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: player
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
